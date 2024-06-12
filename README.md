@@ -34,4 +34,10 @@ I'm a software developer who loves creating things. I enjoy building and learnin
 | Rock-Paper-Scissors Game | Swift        | Live Animations         | <a href="https://github.com/YoungSong99/ios-Mini-Game"> <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="git" width="20" height="20"></a> |
 | Receipt Scanner         | React Native | Extract text from image | <a href="https://github.com/YoungSong99/Receipt-Scanner"> <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="git" width="20" height="20"></a>                                                                                                                                             |
 
+
+#### DataBase
+
+| Project Name            | Tool     | Features                | URL/Git                                                                                                                                                                                                                                                                                                                                                      |
+|-------------------------|--------------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| LinkedIn Data ETL Process | MySQL, Pentaho, PowerBI |  Transform data from url into normalized SQL data      | <a><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="git" width="20" height="20">https://github.com/CSC453-Group-Project/LinkedIn</a> |
 Feel free to contribute or suggest improvements!
