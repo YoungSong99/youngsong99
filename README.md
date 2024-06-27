@@ -33,7 +33,7 @@ I'm a software developer who loves creating things. I enjoy building and learnin
 | Receipt Scanner         | React Native | Extract text from image | <a href="https://github.com/YoungSong99/Receipt-Scanner"> <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="git" width="20" height="20"></a>                                                                                                                                             |
 
 
-#### DataBase
+#### Data Engineering
 
 | Project Name            | Tool     | Features                | URL/Git                                                                                                                                                                                                                                                                                                                                                      |
 |-------------------------|--------------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
