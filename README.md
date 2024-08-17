@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm a software developer who loves creating things. I enjoy building and learning something new. <br> If you have feedback or want to collaborate, please reach out!
+I'm a software developer who loves creating things.<br> If you have feedback or want to collaborate, please reach out!
 
 
 
