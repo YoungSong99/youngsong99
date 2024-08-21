@@ -34,7 +34,7 @@ I'm a software developer who loves creating things.<br> If you have feedback or 
 
 | Project Name            | Tool     | Features                | URL/Git                                                                                                                                                                                                                                                                                                                                                      |
 |-------------------------|--------------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| LinkedIn Data ETL Process | MySQL, Pentaho, PowerBI |  Transform data from url into normalized SQL data      | <a href="https://github.com/CSC453-Group-Project/LinkedIn"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="git" width="20" height="20"></a> |
+| LinkedIn Data ETL Process | MySQL, Pentaho, PowerBI | Visualized the education and job information of multiple individuals obtained through LinkedIn URLs using Power BI. | <a href="https://github.com/CSC453-Group-Project/LinkedIn"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="git" width="20" height="20"></a> |
 
 
 Feel free to contribute or suggest improvements!
